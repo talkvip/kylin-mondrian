@@ -2,6 +2,7 @@ dev-lib
 dist
 
 *.jar
+!build/*
 *.log
 *.log.*
 *~
